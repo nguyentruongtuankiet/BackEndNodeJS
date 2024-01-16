@@ -20,8 +20,8 @@ Cho trước một giao diện web. Hãy thực hiện dự án theo quy trình 
 5. Codebase cho dự án
 6. Phát triển và kiểm thử
 
-[https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F6ZzqeL4x1CqNxZzncZse5q%2FThe-Blog---A-Web-Personal-Blog-(Community)%3Ftype%3Ddesign%26node-id%3D614%3A352%26mode%3Ddesign%26t%3DNzvIIx3Sq4TyIR1E-1](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F6ZzqeL4x1CqNxZzncZse5q%2FThe-Blog---A-Web-Personal-Blog-(Community)%3Ftype%3Ddesign%26node-id%3D614%3A352%26mode%3Ddesign%26t%3DNzvIIx3Sq4TyIR1E-1)
-
+Link figma
+https://s.net.vn/Yt5Z
 ## Yêu cầu sản phẩm
 
 - Sản phẩm có thể chú trọng vào chất lượng. Các chức năng cần được test kĩ nhiều trường hợp khác nhau.
