@@ -21,7 +21,7 @@ Cho trước một giao diện web. Hãy thực hiện dự án theo quy trình 
 6. Phát triển và kiểm thử
 
 Link figma
-https://s.net.vn/Yt5Z
+[https://s.net.vn/Yt5Z](https://bom.so/fOjHV7)
 ## Yêu cầu sản phẩm
 
 - Sản phẩm có thể chú trọng vào chất lượng. Các chức năng cần được test kĩ nhiều trường hợp khác nhau.
